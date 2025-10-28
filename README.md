@@ -1,3 +1,5 @@
+<img width="120" height="120" alt="aws-cloud-quest-cloud-practitioner-training-badge" src="https://github.com/user-attachments/assets/525dfe1e-ad06-420d-99aa-b0e60b1c9329" />
+
 <img width="120" height="120" alt="aws-educate-introduction-to-cloud-101-training-badg (2)" src="https://github.com/user-attachments/assets/45f62570-32d9-4247-807a-2fae38c477e6" />
 
 
