@@ -1,4 +1,5 @@
-<img width="601" height="601" alt="aws-educate-introduction-to-cloud-101-training-badg" src="https://github.com/user-attachments/assets/f5197faf-37a0-42ce-b6b1-a7cc341a982e" />
+<img width="60" height="60" alt="aws-educate-introduction-to-cloud-101-training-badg (1)" src="https://github.com/user-attachments/assets/b34acdcc-94cf-42d7-8686-095d0889b1de" />
+
 
 
 My AWS re/Start Jouney 
