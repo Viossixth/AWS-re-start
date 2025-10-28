@@ -1,4 +1,5 @@
-https://www.credly.com/badges/8c92576f-afbd-4899-8334-183e57566ad5/public_url
+<img width="601" height="601" alt="aws-educate-introduction-to-cloud-101-training-badg" src="https://github.com/user-attachments/assets/f5197faf-37a0-42ce-b6b1-a7cc341a982e" />
+
 
 My AWS re/Start Jouney 
 
