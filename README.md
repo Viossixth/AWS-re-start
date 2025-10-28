@@ -6,7 +6,7 @@
 
 My AWS re/Start Jouney 
 
-This repositoey was created with the sole aim of documenting my journing with AWS re/Start. To highlight and capture what i've learnt , the labs completed and the amount of cloud computing concepts i understand. There are notes, labs examples and achievements attached to this repository.Compute, AWS Storage Services and AWS Database and Analytic Services are some of the concepts to documented and many more.
+This repository was created with the sole aim of documenting my journing with AWS re/Start.There are notes, labs examples and achievements attached to this repository. Compute, AWS Storage Services and AWS Database and Analytic Services are some of the concepts to documented.
 
 Aim of the repo?
 
