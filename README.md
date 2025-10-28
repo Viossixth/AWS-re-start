@@ -1,4 +1,4 @@
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8c92576f-afbd-4899-8334-183e57566ad5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+https://www.credly.com/badges/8c92576f-afbd-4899-8334-183e57566ad5/public_url
 
 My AWS re/Start Jouney 
 
