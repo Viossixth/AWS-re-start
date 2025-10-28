@@ -1,4 +1,4 @@
-<img width="60" height="60" alt="aws-educate-introduction-to-cloud-101-training-badg (1)" src="https://github.com/user-attachments/assets/b34acdcc-94cf-42d7-8686-095d0889b1de" />
+<img width="120" height="120" alt="aws-educate-introduction-to-cloud-101-training-badg (2)" src="https://github.com/user-attachments/assets/45f62570-32d9-4247-807a-2fae38c477e6" />
 
 
 
