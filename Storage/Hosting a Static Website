@@ -1,0 +1,30 @@
+Amazon S3 has a feature to host static website.
+
+  A static website is a website created using html,css and javascript. It doesnt require a backend or frontend. It's an easy route to create a website without any technical complexities.
+I followed the following steps to host the website:
+
+1. Create a bucket in Amazon S3
+2.Upload the web files for the website (html,css and javascript) and the assets (e.g. images and videos)
+3. After completion of the upload, change the bucket policy. Go to Bucket>>Permissions>>Bucket Policy
+4. Edit the policy. I used this template :
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "PublicReadGetObject",
+            "Effect": "Allow",
+            "Principal": "*",
+            "Action": "s3:GetObject",
+            "Resource": "arn:aws:s3:::YOUR-BUCKET-NAME/*"
+        }
+    ]
+}
+5. I changed the arn/ Amazon Resource Name.
+6.To enable static website hosting, i go to Properties>>Static Website Hosting
+7. I enabled static website hosting, specify the index and error document and saved my changes.
+8. I clicked on the bucket website endpoint, and checked if all is working.
+9. My website was hosted successfulyy by Amazon S3.
+
+Here is an examplary link: http://nostra-chrismaluleke.s3-website-us-east-1.amazonaws.com/
+(Should it not work, website hosting may been disabled)
+
