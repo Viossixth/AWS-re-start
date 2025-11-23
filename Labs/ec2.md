@@ -38,9 +38,10 @@ To solve this issue, Security group rules need to be changed. The inbound rules 
 <img width="1365" height="677" alt="Screenshot 2025-11-23 214438" src="https://github.com/user-attachments/assets/46e81f65-af26-4edb-be02-b400670ddbcd" />
 <img width="1365" height="679" alt="Screenshot 2025-11-23 233342" src="https://github.com/user-attachments/assets/f448d7bb-6c10-46c1-b6de-1295ec195711" />
 
-
-
+To change Instance type
 <img width="1365" height="678" alt="Screenshot 2025-11-23 221222" src="https://github.com/user-attachments/assets/1938ade2-4e94-462d-8b39-342c51f5ecfc" />
+
+To change EBS Volume
 <img width="1365" height="686" alt="Screenshot 2025-11-23 221417" src="https://github.com/user-attachments/assets/8516edf7-9d9a-4dbc-a9fb-c50e94e530b8" />
 
 To remove termination protection.
