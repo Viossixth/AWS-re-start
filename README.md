@@ -4,7 +4,7 @@
 
 # AWS re/Start Learning Repository
 
-This repository documents my journey through the AWS re:Start program, showcasing hands-on labs, projects, and core cloud computing competencies.
+This repository documents my journey through the AWS re/Start program, showcasing hands-on labs, projects, and core cloud computing competencies.
 
 ##  Repository Structure
 
@@ -38,7 +38,7 @@ Each topic is organized into dedicated folders with clear documentation and prac
 
 ##  Key Projects
 
-- **Project 1:**  Static Website hsoted on S3 for a restaurant; https://github.com/Viossixth/AWS-re-start/tree/main/Project/S3-Website 
+- **Project 1:**  Static Website hsoted on S3 for a restaurant | https://github.com/Viossixth/AWS-re-start/tree/main/Project/S3-Website 
 - **Project 2:** 
 - **Project 3:** 
 
@@ -54,7 +54,7 @@ Aspiring Cloud Security Professional with a focus on securing cloud infrastructu
 
 ### About This Repository
 
-This is a living document that grows as I progress through the AWS re:Start program. Each section contains:
+This is a living document that grows as I progress through the AWS re/Start program. Each section contains:
 - Conceptual notes and breakdowns
 - Hands-on lab documentation
 - Code samples and configurations
