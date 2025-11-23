@@ -2,11 +2,11 @@
 
 <img width="120" height="120" alt="aws-educate-introduction-to-cloud-101-training-badg (2)" src="https://github.com/user-attachments/assets/45f62570-32d9-4247-807a-2fae38c477e6" />
 
-# AWS re:Start Learning Repository
+# AWS re/Start Learning Repository
 
 This repository documents my journey through the AWS re:Start program, showcasing hands-on labs, projects, and core cloud computing competencies.
 
-## 📚 Repository Structure
+##  Repository Structure
 
 Each topic is organized into dedicated folders with clear documentation and practical examples:
 
@@ -17,7 +17,7 @@ Each topic is organized into dedicated folders with clear documentation and prac
 - **Databases** - RDS, DynamoDB
 - **Monitoring** - CloudWatch, CloudTrail
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Cloud Platforms:**
 - AWS (EC2, S3, VPC, IAM, RDS, Lambda)
@@ -36,18 +36,18 @@ Each topic is organized into dedicated folders with clear documentation and prac
 - Google Cybersecurity Professional Certificate
 - Security best practices and compliance fundamentals
 
-## 🎯 Key Projects
+##  Key Projects
 
 - **Project 1:** [ Static Website hsoted on S3 for a restaurant; https://github.com/Viossixth/AWS-re-start/tree/main/Project/S3-Website ]
 - **Project 2:** []
 - **Project 3:** []
 
-## 📜 Certifications
+##  Certifications
 
 - AWS re:Start Program (In Progress)
 - Google Cybersecurity Professional Certificate
 
-## 🚀 Career Goals
+##  Career Goals
 
 Aspiring Cloud Security Professional with a focus on securing cloud infrastructure and implementing best practices across AWS environments.
 
