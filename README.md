@@ -2,24 +2,62 @@
 
 <img width="120" height="120" alt="aws-educate-introduction-to-cloud-101-training-badg (2)" src="https://github.com/user-attachments/assets/45f62570-32d9-4247-807a-2fae38c477e6" />
 
+# AWS re:Start Learning Repository
+
+This repository documents my journey through the AWS re:Start program, showcasing hands-on labs, projects, and core cloud computing competencies.
+
+## 📚 Repository Structure
+
+Each topic is organized into dedicated folders with clear documentation and practical examples:
+
+- **Compute** - EC2, Lambda, Auto Scaling
+- **Storage** - S3, EBS, EFS
+- **Networking** - VPC, Route 53, CloudFront
+- **Security** - IAM, Security Groups, KMS
+- **Databases** - RDS, DynamoDB
+- **Monitoring** - CloudWatch, CloudTrail
+
+## 🛠️ Technical Skills
+
+**Cloud Platforms:**
+- AWS (EC2, S3, VPC, IAM, RDS, Lambda)
+
+**Programming & Scripting:**
+- Python (Data Analysis)
+- JavaScript, HTML, CSS
+- SQL (MySQL)
+
+**DevOps & Tools:**
+- Linux/Bash
+- Git/GitHub
+- Infrastructure as Code concepts
+
+**Security:**
+- Google Cybersecurity Professional Certificate
+- Security best practices and compliance fundamentals
+
+## 🎯 Key Projects
+
+- **Project 1:** [ Static Website hsoted on S3 for a restaurant; https://github.com/Viossixth/AWS-re-start/tree/main/Project/S3-Website ]
+- **Project 2:** []
+- **Project 3:** []
+
+## 📜 Certifications
+
+- AWS re:Start Program (In Progress)
+- Google Cybersecurity Professional Certificate
+
+## 🚀 Career Goals
+
+Aspiring Cloud Security Professional with a focus on securing cloud infrastructure and implementing best practices across AWS environments.
 
 
-My AWS re/Start Jouney 
+### About This Repository
 
-This repository was created with the sole aim of documenting my journing with AWS re/Start.There are notes, labs examples and achievements attached to this repository. Compute, AWS Storage Services and AWS Database and Analytic Services are some of the concepts to documented.
+This is a living document that grows as I progress through the AWS re:Start program. Each section contains:
+- Conceptual notes and breakdowns
+- Hands-on lab documentation
+- Code samples and configurations
+- Best practices and lessons learned
 
-Aim of the repo?
-
-To document my work and learning.
-Notes, lab examples help me revise for the AWS Cloud Practitioner Exam.
-To showcase my understanding of cloud computing and AWS Services.
-
-Projects
-
-A project folder exists with three sub-folders. Static website hosting, database and Lambda are the three projects done throghout re/Start and the business case and solution are documented there. The technologies and steps taken to solve the business case were mentioned and screenshots are provided. 
-
-Notes 
-The notes attached to every folder are my understanding of the Cloud Computing Concept and how they work. It can serve as an introduction to the topic and further breakdown the concepts and technologies explored. 
-
-Labs
-Labs are done in a simulated environment and showcase how a business case was solved and how that came to be. Labs are meant to demonstrate the knowledge and understanding acquired.
+*Last Updated: 23-11-2023*
