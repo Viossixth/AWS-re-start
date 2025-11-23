@@ -38,7 +38,7 @@ Each topic is organized into dedicated folders with clear documentation and prac
 
 ##  Key Projects
 
-- **Project 1:**  Static Website hsoted on S3 for a restaurant | https://github.com/Viossixth/AWS-re-start/tree/main/Project/S3-Website 
+- **Project 1:**  Static restaurant Website hosted on S3 | https://github.com/Viossixth/AWS-re-start/tree/main/Project/S3-Website 
 - **Project 2:** 
 - **Project 3:** 
 
