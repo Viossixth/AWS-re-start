@@ -39,13 +39,15 @@ To solve this issue, Security group rules need to be changed. The inbound rules 
 <img width="1365" height="679" alt="Screenshot 2025-11-23 233342" src="https://github.com/user-attachments/assets/f448d7bb-6c10-46c1-b6de-1295ec195711" />
 
 To change Instance type
+Select instance state and chose stop instance. After waiting for a while, the instance will stop. Click Actions, Instance Settings and change Instance type. Configure the new instance type .
 <img width="1365" height="678" alt="Screenshot 2025-11-23 221222" src="https://github.com/user-attachments/assets/1938ade2-4e94-462d-8b39-342c51f5ecfc" />
 
 To change EBS Volume
+Whilst the instance has been stopped, go to Volumes under the Elastic Block Store on the left menu. Check the box of the volume, select Actions, Modify Volume. Change the volume size and confirm new settings. Start the instance.
 <img width="1365" height="686" alt="Screenshot 2025-11-23 221417" src="https://github.com/user-attachments/assets/8516edf7-9d9a-4dbc-a9fb-c50e94e530b8" />
 
 To remove termination protection.
-
+Go to Actions, Change termination protection,uncheck enable and save. The instance can now be terminated.
 <img width="1362" height="681" alt="Screenshot 2025-11-23 222036" src="https://github.com/user-attachments/assets/76b48b08-6e68-4782-9165-643cb38b4dfc" />
 <img width="1365" height="677" alt="Screenshot 2025-11-23 222005" src="https://github.com/user-attachments/assets/6d6dc60d-dbe6-49f2-91c1-926a2169e973" />
 <img width="1365" height="681" alt="Screenshot 2025-11-23 221839" src="https://github.com/user-attachments/assets/b5b9eb9c-8263-40b3-a905-4ac3a961d10f" />
