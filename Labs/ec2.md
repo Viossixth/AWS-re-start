@@ -38,6 +38,11 @@ To solve this issue, Security group rules need to be changed. The inbound rules 
 <img width="1365" height="677" alt="Screenshot 2025-11-23 214438" src="https://github.com/user-attachments/assets/46e81f65-af26-4edb-be02-b400670ddbcd" />
 <img width="1365" height="679" alt="Screenshot 2025-11-23 233342" src="https://github.com/user-attachments/assets/f448d7bb-6c10-46c1-b6de-1295ec195711" />
 
+<img width="1365" height="677" alt="Screenshot 2025-11-23 222005" src="https://github.com/user-attachments/assets/6d6dc60d-dbe6-49f2-91c1-926a2169e973" />
+<img width="1362" height="681" alt="Screenshot 2025-11-23 222036" src="https://github.com/user-attachments/assets/76b48b08-6e68-4782-9165-643cb38b4dfc" />
+<img width="1365" height="678" alt="Screenshot 2025-11-23 221222" src="https://github.com/user-attachments/assets/1938ade2-4e94-462d-8b39-342c51f5ecfc" />
+<img width="1365" height="686" alt="Screenshot 2025-11-23 221417" src="https://github.com/user-attachments/assets/8516edf7-9d9a-4dbc-a9fb-c50e94e530b8" />
+<img width="1365" height="681" alt="Screenshot 2025-11-23 221839" src="https://github.com/user-attachments/assets/b5b9eb9c-8263-40b3-a905-4ac3a961d10f" />
 
 
 
