@@ -15,4 +15,11 @@ Amazon EC2 is a web service that allows customers to provision servers known as 
 * Terminate your EC2 instance
 
 <img width="1062" height="564" alt="Screenshot 2025-11-23 211836" src="https://github.com/user-attachments/assets/ecf8116f-4e58-43b5-b95a-ccca7b656c61" />
+Launching a webs server
+
+<img width="1362" height="680" alt="Screenshot 2025-11-23 212413" src="https://github.com/user-attachments/assets/ed8c231d-3ec9-417c-9a3b-7c0aa1957d9b" />
+
+<img width="1363" height="678" alt="Screenshot 2025-11-23 212525" src="https://github.com/user-attachments/assets/f1417f71-1f84-47ad-ba90-5a84e59cb8da" />
+
+
 
