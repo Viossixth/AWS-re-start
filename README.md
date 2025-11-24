@@ -42,7 +42,10 @@ Each topic is organized into dedicated folders with clear documentation and prac
 
 ##  Key Projects
 
-- **Project 1:**  Static restaurant Website hosted on S3 | https://github.com/Viossixth/AWS-re-start/tree/main/Project/S3-Website 
+- **Project 1:**
+  **Static restaurant Website hosted on S3 | https://github.com/Viossixth/AWS-re-start/tree/main/Project/S3-Website **
+  This project attempts to create a digital presence for a restaurant with the aid of static website. The main aim of the project is to automate business operations through a reservation and order handling page. They key concept is intergrating the website with AWS services to achieve scalability and reliability. HTML, CSS and Javascript was used and integrated seamlessly with Amazon S3 to host the website and accelerated with CloudFront, secured with SSL, and optimized for global performance using services within the AWS Free Tier.
+  
 - **Project 2:** 
 - **Project 3:** 
 
