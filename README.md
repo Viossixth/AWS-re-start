@@ -23,7 +23,6 @@ Each topic is organized into dedicated folders with clear documentation and prac
 - AWS (EC2, S3, VPC, IAM, RDS, Lambda)
 
 **Programming & Scripting:**
-- Python (Data Analysis)
 - JavaScript, HTML, CSS
 - SQL (MySQL)
 
@@ -33,24 +32,19 @@ Each topic is organized into dedicated folders with clear documentation and prac
 - Infrastructure as Code concepts
 
 **Security:**
-- Google Cybersecurity Professional Certificate
 - Security best practices and compliance fundamentals
+
+**Soft Skills:**
+- Problem-Solving
+- Good Communication Skills
+- Presentation Skills
+- Customer Focus
 
 ##  Key Projects
 
 - **Project 1:**  Static restaurant Website hosted on S3 | https://github.com/Viossixth/AWS-re-start/tree/main/Project/S3-Website 
 - **Project 2:** 
 - **Project 3:** 
-
-##  Certifications
-
-- AWS re:Start Program (In Progress)
-- AWS CLoud Practitioner (in progress)
-
-##  Career Goals
-
-Aspiring Cloud Security Professional with a focus on securing cloud infrastructure and implementing best practices across AWS environments.
-
 
 ### About This Repository
 
@@ -59,5 +53,9 @@ This is a living document that grows as I progress through the AWS re/Start prog
 - Hands-on lab documentation
 - Code samples and configurations
 - Best practices and lessons learned
+
+## Let's connect
+
+Email: risimac@outlook.com
 
 *Last Updated: 23-11-2023*
