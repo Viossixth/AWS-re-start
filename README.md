@@ -62,5 +62,3 @@ This is a living document that grows as I progress through the AWS re/Start prog
 ## Let's connect
 
 - 📧 Email: risimac@outlook.com
-
-*Last Updated: 25-11-2023*
