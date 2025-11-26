@@ -1,6 +1,4 @@
-## Systems Hardening
-
-Systems hardening is the principle of reduceing potential vulnerabilities and the attack surfaces, therefore increasing security. This lab aims to implement ways of system hardening. In this laba patch
+## Network Hardening
 
 Task 1  Patch the Linux Instances (Default Baseline)
 
