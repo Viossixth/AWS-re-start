@@ -10,3 +10,16 @@ Other database types are Graph databases and In-Memory Database. Graph databases
 
 
 <img width="1501" height="628" alt="aws-database-options" src="https://github.com/user-attachments/assets/9e1cdaf2-5043-42de-b08b-60835b35bcbd" />
+
+
+**Benefits**
+
+* High performance
+* High availability
+* Easy to migrate
+
+**Use cases**
+
+* Go serverless
+* Build SaaS applications
+* modersnise enterprise applications
