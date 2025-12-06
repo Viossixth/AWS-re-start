@@ -40,3 +40,16 @@ Amazon MQ is a message brokerage service for Apache ActiveMQ and RabbitMQ.
 
 <img width="974" height="485" alt="image" src="https://github.com/user-attachments/assets/b8a5e576-e25c-457c-966c-b04ebf7a7098" />
 
+**Benefits**
+
+* Scale with ease
+* Simplify workflow orchestration
+* Build resilient applications
+* Ensure high availability
+
+**Use cases**
+
+* Automate security and IT functions.
+* Automate ETL processes.
+* Low latency event messaging
+* Increase application reliability and scale.
