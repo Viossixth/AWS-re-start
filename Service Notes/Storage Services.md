@@ -16,3 +16,15 @@ Amazon Elastic Block Service provides persistent storage for Amazon EC2 instance
 
 <img width="980" height="494" alt="1_x7Hjy4qA5AtWZTqYa0CgkQ" src="https://github.com/user-attachments/assets/936923cc-1f96-4d5a-b68e-9d67369c2737" />
 
+**Use cases**
+
+* Data lakes
+* Accelerate data science
+* Run relational or NoSQL Databases
+
+**Benefits**
+
+* Scalanility
+* Quick and easy to create
+* Durability and availability
+* Security and data protection
