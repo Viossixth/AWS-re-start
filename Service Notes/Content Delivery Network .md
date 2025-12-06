@@ -18,3 +18,14 @@ Route 53 has four routing policies namely Simple routing, Failover routing  , La
 
 <img width="2501" height="1199" alt="image" src="https://github.com/user-attachments/assets/8e0a9bfb-4e1c-4717-9c53-af3c7c4fff54" />
 
+**Benefits**
+
+* Reduce latency
+* Cut costs
+* Improve security
+
+**Use cases**
+
+* Deliver fast, secure websites
+* Stream live on-demand websites
+* Accelerate dynamic content delivery and API's
