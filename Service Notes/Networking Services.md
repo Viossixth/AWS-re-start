@@ -13,3 +13,21 @@ Internet gateways allows resources in public subnets to be accessed through the 
 Additional features of VPC's are VPC's flow logs, VPC Peering ,VPC Endpoints and AWS Virtual Private Network. A VPC flow log is a log file of the traffic flow through the virtual private cloud. VPC Peering enables two virtual private clouds to establish a network connection privately using IPV4 or IPV6 addresses. VPC Endpoints allows clients to connect their VPC Endpoint to other supported AWS services or VPC Endpoint services. A Virtual Private Network or VPN allows for a private connection between your laptop at home to AWS, on premises servers to AWS or remote devices to AWS.AWS VPN may either be site-to-site VPN or AWS Client VPN. A site-to-site VPN allows to connection between on premises environment to AWS and the client VPN allows connection between a remote employee to AWS.
 
 Amazon PrivateLink allows a connection between on premises environment to AWS without a connection through the internet. AWS TransitGateway allows for simple management of multiple VPC's and  on premises environment.
+
+**Use cases**
+
+* Create hybrid connections (VPC)
+* Stream live and on-demand videos (CloudFront)
+* Manage large datasets (DirectConnect)
+* Consistent high performance
+* Broadest gloabal coverage
+* Highest network availability
+
+**Benefits**
+
+* Improve Security
+* Improved application perfromance
+* Automatic scaling
+* Reduce latency
+* Monitor in real time
+  
