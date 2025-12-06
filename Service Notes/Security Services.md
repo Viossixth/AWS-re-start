@@ -13,3 +13,16 @@ AWS Shield is DDOS protection service for your applications. It protects them fr
 <img width="1963" height="1651" alt="image" src="https://github.com/user-attachments/assets/e4ada2a9-4201-43e0-85db-3aa006bb1103" />
 
 AWS Network Firewall is a network level firewall to protect virtual private clouds. AWS Firewall Manager is used to centrally manage firewalls and security protocols among multiple AWS accounts and resources. Amazon Web Application Firewall allows control of http and https traffic and protects against SQL-Injection, cross-site-scripting and bots.
+
+**Use cases**
+
+* Implement network best practices
+* Establish organizational wide controls
+* Protects data at rest
+
+**Benefits**
+
+* Set permissions guardrails and fine-grained access.
+* Encrypt data within applications
+* Perform sign-in operations
+* 
