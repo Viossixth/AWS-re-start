@@ -3,7 +3,7 @@
 
 ## Project Overview 
 
-The aim of this project was to design infrastructure for an ecommerce application or website which would have 3D Objects of their inventory. AWS services should be used for security, monitoring, performance and scalability. An infrstaructure diagram was drawn showing the various services used and the logical flow of information. A Project brief was written up explaining hwhy each service was chosen and it's function, how the architecture meets the five requirements and any design trade-offs or challenges faced.
+The aim of this project was to design infrastructure for an ecommerce application or website which would have 3D Objects of their inventory. AWS services should be used for security, monitoring, performance and scalability. An infrstaructure diagram was drawn showing the various services used and the logical flow of information. A Project brief was written up explaining why each service was chosen and it's function, how the architecture meets the five requirements and any design trade-offs or challenges faced.
 
 ## Challenges and Resolutions
 
