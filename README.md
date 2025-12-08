@@ -2,13 +2,23 @@
 
 <img width="120" height="120" alt="aws-educate-introduction-to-cloud-101-training-badg (2)" src="https://github.com/user-attachments/assets/45f62570-32d9-4247-807a-2fae38c477e6" />
 
-# AWS re/Start Learning Repository
+## Introduction About Me
 
-This repository documents my journey through the AWS re/Start program, showcasing hands-on labs, projects, and core cloud computing competencies.
+My tech journey started young Grade 4, to be exact. Researching unique geological formations on MS Word, navigating the early internet, fascinated by how technology connected information. That curiosity never left. I've watched tech evolve from Blackberries to smartphones, from data dongles to fiber internet. Now I'm not just watching I'm building, securing, and learning how to architect the cloud infrastructure that powers tomorrow.
+
+I'm on a mission to enter the Cloud Security domain, combining infrastructure knowledge with security best practices to help organizations build resilient systems. Aspiring Cloud Professional focused implementing best practices across AWS environments. I believe technology isn't just about innovation,it's about securing that innovation. That's where I want to be. Dedicated. Hungry. Disciplined. I know dreams are a matter of time, and with patience and persistence, goals become reality.
+
+## AWS re/Start Journey
+
+Currently I am a Civil Engineering student with Unisa, but through curiosity I wanted to delve into tech. Engineering has shaped me to focus on the small details, to actively work as a collective and see the bigger picture when a problem arises. It's the communication, people skills and problem solving skills I want to bring over to my new path. I saw AWS re/Start as a stepping stone to build towards this new career path. AWS is a leading cloud cmputing company, with many organizations and companies integrating their workflow and needs with AWS. Competency with AWS services and technology will help me reach a good level of competency since many of the services we use daily are cloud based. A good understanding of cloud services will aid me in my jouney of entering cybersecurity.
+
+**Key lessons and experiences**
+
+Coming soon.....
 
 ##  Repository Structure
 
-Each topic is organized into dedicated folders with clear documentation and practical examples:
+This repository documents my journey through the AWS re/Start program, showcasing hands-on labs, projects, and core cloud computing competencies. Each topic has it's own documentation and practical examples:
 
 - **Compute** - EC2, Lambda, Auto Scaling
 - **Storage** - S3, EBS, EFS
@@ -42,14 +52,22 @@ Each topic is organized into dedicated folders with clear documentation and prac
 
 ##  Key Projects
 
-- **Project 1:
+ **Project 1:
   Static restaurant Website hosted on S3**
   
-  This project attempts to create a digital presence for a restaurant with the aid of static website. The main aim of the project is to automate business operations through a reservation and order handling page. They key concept is intergrating the website with AWS services to achieve scalability and reliability. HTML, CSS and Javascript was used and integrated  seamlessly with Amazon S3 to host the website and accelerated with CloudFront, secured with SSL, and optimized for global performance using services within the AWS Free Tier. 
- https://github.com/Viossixth/AWS-re-start/tree/main/Project/S3-Website
+This project attempts to create a digital presence for a restaurant with the aid of static website. The main aim of the project is to automate business operations through a reservation and order handling page. They key concept is intergrating the website with AWS services to achieve scalability and reliability. HTML, CSS and Javascript was used and integrated  seamlessly with Amazon S3 to host the website and accelerated with CloudFront, secured with SSL, and optimized for global performance using services within the AWS Free Tier. 
+
+https://github.com/Viossixth/AWS-re-start/tree/main/Project/S3-Website
   
-- **Project 2: Coming Soon...**
-- **Project 3: Coming Soon...** 
+ **Project 2: 3D Architecture**
+ 
+The aim of this project was to design infrastructure for an ecommerce application or website which would have 3D Objects of their inventory. AWS services should be used for security, monitoring, performance and scalability. An infrstaructure diagram was drawn showing the various services used and the logical flow of information. A Project brief was written up explaining why each service was chosen and it's function, how the architecture meets the five requirements and any design trade-offs or challenges faced.
+
+https://github.com/Viossixth/AWS-re-start/tree/main/Project/3D%20Architecture
+ 
+**Project 3: AWS Lex Bot** 
+
+Coming soon....
 
 ### About This Repository
 
@@ -58,6 +76,7 @@ This is a living document that grows as I progress through the AWS re/Start prog
 - Hands-on lab documentation
 - Code samples and configurations
 - Best practices and lessons learned
+- Projects completed
 
 ## Let's connect
 
