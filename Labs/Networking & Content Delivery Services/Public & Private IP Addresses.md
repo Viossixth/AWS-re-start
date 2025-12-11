@@ -1,6 +1,9 @@
 ## Public and Private IP Addresses
 
+<img width="813" height="532" alt="image" src="https://github.com/user-attachments/assets/551ba642-0e8c-4847-80b6-00e1b373f817" />
+
 In this lab I explore public and private IP Addresses and gain experience trying to connect to them. To start this lab, I logged into the AWS Management Console and searched for EC2. 
+
 <img width="1365" height="646" alt="Screenshot 2025-12-11 144059" src="https://github.com/user-attachments/assets/fc895d1c-f348-432c-b2ca-73181b6758c4" />
 
 I looked up Instances on the left navigation menu on EC2 and clicked to see the instances available. I selected Instance A , went to the networking tab to note the IP Address and only found the private address. 
