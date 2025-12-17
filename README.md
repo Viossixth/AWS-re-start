@@ -6,7 +6,7 @@
 
 My tech journey started young Grade 4, to be exact. Researching unique geological formations on MS Word, navigating the early internet, fascinated by how technology connected information. That curiosity never left. I've watched tech evolve from Blackberries to smartphones, from data dongles to fiber internet. Now I'm not just watching I'm building, securing, and learning how to architect the cloud infrastructure that powers tomorrow.
 
-I'm on a mission to enter the Cloud Security domain, combining infrastructure knowledge with security best practices to help organizations build resilient systems. Aspiring Cloud Professional focused implementing best practices across AWS environments. I believe technology isn't just about innovation,it's about securing that innovation. That's where I want to be. Dedicated. Hungry. Disciplined. I know dreams are a matter of time, and with patience and persistence, goals become reality.
+I'm on a mission to enter the Cloud Security domain, combining infrastructure knowledge with security best practices to help organizations build resilient systems. Aspiring Cloud Professional focused implementing best practices across AWS environments. I believe technology isn't just about innovation,it's about securing that innovation. That's where I want to be. Dedicated, Hungry and Disciplined. I know dreams are a matter of time, and with patience and persistence, goals become reality.
 
 ## AWS re/Start Journey
 
