@@ -14,7 +14,9 @@ Currently I am a Civil Engineering student with Unisa, but through curiosity I w
 
 **Key lessons and experiences**
 
-Coming soon.....
+Resilience and problem solving are two things I believed I've sharpened during the AWS re/Start programme. At times, a Lab or project might be difficult and time consuming but I held on persisted and thought of another angle and won. I learnt to work with people, to compromise and seek the outcome of the project not just my opinions on a matter. I also grew in confidence of my work and skills, my curiosity helped me take the first leap of trying to work with aws services, but the persistence and problem solving allowed me to continue on and through that process i gained confidence of my skills both individually and as a member of a group.
+
+I acquired so much knowledge of cloud computing and basically peeled the layers of the internet infrastructure around us. I'm glad to say this is just the introduction, i'm aiming at learning more about cloud computing.
 
 ##  Repository Structure
 
