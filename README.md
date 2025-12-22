@@ -69,7 +69,9 @@ https://github.com/Viossixth/AWS-re-start/tree/main/Project/3D%20Architecture
  
 **Project 3: AWS Lex Bot** 
 
-Coming soon....
+For this project we had to build an intercative EC2 knowledge quiz using Amazon Lex. The quiz would be conducted via a bot, of which you can type your responses to and feedback would be given. To create this bot, we created a new bot using Amazon Lex. Then we added an intent (Start Quiz etc..), added uterrances , used responses to give feedback and used simple branching. This ensured a smooth experience with good feedback for the option selected.
+
+https://github.com/Viossixth/AWS-re-start/tree/main/Project/3D%20Architecture
 
 ### About This Repository
 
