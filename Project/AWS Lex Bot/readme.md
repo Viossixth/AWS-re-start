@@ -15,3 +15,8 @@ For this project we had to build an intercative EC2 knowledge quiz using Amazon 
 <img width="1365" height="580" alt="Screenshot 2025-12-22 094948" src="https://github.com/user-attachments/assets/fbf54566-5fc0-4a43-a077-e476f36b7e35" />
 <img width="1365" height="576" alt="Screenshot 2025-12-22 095036" src="https://github.com/user-attachments/assets/94ea554c-6a1c-4cee-8b6b-8d831c22af5d" />
 
+**Challenges & Resolutions**
+
+This project was challenging, because we had an overview of how to create a simple chatbot but the main goal was to expand it and add more questions and logic. We were given the template of a chatbot which you ask questions and answers are provided and we had to create a chatbot for a quiz with feedback integrated. To accomplish this, all team members attempted part 1 of the template and them went on to part two. We had minor scheduling issues but the meetings took place and those absent were informed afterwards. Secodnly figuring out how to integrate Lambda and Lex was an issue for me, requiring hours of research and troubleshooting.A group member finally figured it out, and showed us the working solution. Adding the utterances was easy and configuring Lambda was quick and easy.
+
+
